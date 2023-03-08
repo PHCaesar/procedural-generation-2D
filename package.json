@@ -1,0 +1,25 @@
+{
+  "name": "com.PHCaesar.2d-procedural-generation",
+  "version": "1.2.3",
+  "displayName": "2D procedural generation",
+  "description": "This package features basic procedural functionality for Unity 2D.",
+  "unity": "2019.1",
+  "unityRelease": "0",
+ "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "PHCaesar",
+    "email": "philipp.cserich@gmail.com",
+    "url": "https://www.unity3d.com"
+    },
+  "samples": [
+      {
+          "displayName": "SceneSample",
+          "description": "Scene samples that explain the procedural generation mechanics and show how to use the package.",
+          "path": "Samples~/Scenes"
+      }
+  ]
+}
